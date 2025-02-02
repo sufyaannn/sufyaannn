@@ -1,6 +1,7 @@
 <h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Mohammad Sufyaan</h1>
 <h3 align="left">I am human who love technology , nature and camera 📷.</h3>
 <img align='right' src="https://whosarghya.netlify.app/content/giphy.gif" width="230">
+<a href="https://drive.google.com/file/d/17thKlpuomE4ZaT8vdyf011aOGz69F933/view?usp=sharing"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/464952261b11c4d89b1a3e2292b72cb2576069b4/imgs/cv.svg" alt="Resume"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyaannn&label=Profile%20views&color=0e75b6&style=flat" alt="sufyaannn" /> </p>
 
