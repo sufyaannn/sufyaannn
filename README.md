@@ -31,3 +31,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=sufyaannn&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi,<b> I'll be happy to meet you more!</b> :)</em>
