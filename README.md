@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Java FullStack**
 
-- 🌱 I’m currently learning **React,Hibernate**
+- 🌱 I’m currently learning **React,Hibernate,Springboot**
 
-- 💬 Ask me about **Python, JAVA ,HTML ,CSS Etc.**
+- 💬 Ask me about **Python, JAVA ,HTML , CSS**
 
 - 📫 How to reach me **sufyaanmd182@gmail.com**
 
